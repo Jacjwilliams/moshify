@@ -867,7 +867,7 @@ a {
     grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
   }
   .footer .collapsible__chevron {
-    display: hidden;
+    visibility: hidden;
   }
   .footer .collapsible__content {
     opacity: 1;
